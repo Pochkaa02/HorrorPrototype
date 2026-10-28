@@ -1,0 +1,5 @@
+Laminate Floor 02
+Source: https://polyhaven.com/a/laminate_floor_02
+Authors: Charlotte Baglioni (photography), Dario Barresi (processing)
+License: CC0 https://polyhaven.com/license
+Original diffuse map: 1K JPG. Unity import limited to 512 px for the intended soft appearance.
